@@ -10,6 +10,6 @@ Portfolio Website of Vineeth Chava
   <br>
 </h1>
 
-<h4 align="center">A personal website about <a href="" target="_blank">Vineeth Chava</a>.</h4>
+<h4 align="center">A personal website about <a href="https://vineethchava.github.io/vineethchava-portfolio/" target="_blank">Vineeth Chava</a>.</h4>
 
 <br>
