@@ -3,8 +3,8 @@ Portfolio Website of Vineeth Chava
 
 <h1 align="center">
   <br>
-  <a href="http://gregsithole.com">
-  <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
+  <a href="https://vineethchava.github.io/vineethchava-portfolio">
+  <img src="./src/assets/logo-1.svg" alt="GregSithole" width="200"></a>
   <br>
   Vineeth Chava's Personal Website
   <br>
