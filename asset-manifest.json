@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/vineethchava-portfolio/static/css/main.b226ba78.css",
+    "main.js": "/vineethchava-portfolio/static/js/main.027e1c65.js",
+    "static/media/travel.png": "/vineethchava-portfolio/static/media/travel.3f1e703c327327f3a246.png",
+    "static/media/intel.jpg": "/vineethchava-portfolio/static/media/intel.c6bc55a7d897096e9046.jpg",
+    "static/media/resume.pdf": "/vineethchava-portfolio/static/media/resume.f6d1e6050146aadf7e4b.pdf",
+    "static/media/native-jobs.png": "/vineethchava-portfolio/static/media/native-jobs.aefeaca3698579f1e739.png",
+    "static/media/blog-1.svg": "/vineethchava-portfolio/static/media/blog-1.7f5fb5b0228f104a981e9809017a1cb2.svg",
+    "static/media/cryptoverse.png": "/vineethchava-portfolio/static/media/cryptoverse.9082016cd20b7f1e0ae0.png",
+    "static/media/logo-1.png": "/vineethchava-portfolio/static/media/logo-1.c5df175fd665b6867408.png",
+    "static/media/logo-1-light.jpg": "/vineethchava-portfolio/static/media/logo-1-light.0e36dbb072bab88e1099.jpg",
+    "static/media/avatar-3.svg": "/vineethchava-portfolio/static/media/avatar-3.5bf46e6d1530bd73b02b567041e76e4d.svg",
+    "static/media/avatar-4.svg": "/vineethchava-portfolio/static/media/avatar-4.1859fab5f65d2a41fed620abbb0170e5.svg",
+    "static/media/avatar-1.svg": "/vineethchava-portfolio/static/media/avatar-1.09f66d2157a4760a7fb5d009f6ce19dd.svg",
+    "static/media/avatar-2.svg": "/vineethchava-portfolio/static/media/avatar-2.34202b5e28f05c3b37d92b2f73632aa4.svg",
+    "static/media/service-3.svg": "/vineethchava-portfolio/static/media/service-3.5ce3e21e961c980ca809977cf695357b.svg",
+    "static/media/service-2.svg": "/vineethchava-portfolio/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
+    "static/media/service-1.svg": "/vineethchava-portfolio/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
+    "static/media/dots-bg-dark.svg": "/vineethchava-portfolio/static/media/dots-bg-dark.3a79e4a2778386f14af1.svg",
+    "static/media/dots-bg.svg": "/vineethchava-portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/vineethchava-portfolio/index.html",
+    "main.b226ba78.css.map": "/vineethchava-portfolio/static/css/main.b226ba78.css.map",
+    "main.027e1c65.js.map": "/vineethchava-portfolio/static/js/main.027e1c65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b226ba78.css",
+    "static/js/main.027e1c65.js"
+  ]
+}
